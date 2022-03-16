@@ -1,0 +1,15 @@
+C:\Projects\Curso\StringBuilder\StringBuilder\Course\obj\Debug\net6.0\Course.csproj.AssemblyReference.cache
+C:\Projects\Curso\StringBuilder\StringBuilder\Course\obj\Debug\net6.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Curso\StringBuilder\StringBuilder\Course\obj\Debug\net6.0\Course.AssemblyInfoInputs.cache
+C:\Projects\Curso\StringBuilder\StringBuilder\Course\obj\Debug\net6.0\Course.AssemblyInfo.cs
+C:\Projects\Curso\StringBuilder\StringBuilder\Course\obj\Debug\net6.0\Course.csproj.CoreCompileInputs.cache
+C:\Projects\Curso\StringBuilder\StringBuilder\Course\bin\Debug\net6.0\Course.exe
+C:\Projects\Curso\StringBuilder\StringBuilder\Course\bin\Debug\net6.0\Course.deps.json
+C:\Projects\Curso\StringBuilder\StringBuilder\Course\bin\Debug\net6.0\Course.runtimeconfig.json
+C:\Projects\Curso\StringBuilder\StringBuilder\Course\bin\Debug\net6.0\Course.dll
+C:\Projects\Curso\StringBuilder\StringBuilder\Course\bin\Debug\net6.0\ref\Course.dll
+C:\Projects\Curso\StringBuilder\StringBuilder\Course\bin\Debug\net6.0\Course.pdb
+C:\Projects\Curso\StringBuilder\StringBuilder\Course\obj\Debug\net6.0\Course.dll
+C:\Projects\Curso\StringBuilder\StringBuilder\Course\obj\Debug\net6.0\ref\Course.dll
+C:\Projects\Curso\StringBuilder\StringBuilder\Course\obj\Debug\net6.0\Course.pdb
+C:\Projects\Curso\StringBuilder\StringBuilder\Course\obj\Debug\net6.0\Course.genruntimeconfig.cache
